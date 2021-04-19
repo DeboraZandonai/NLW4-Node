@@ -84,6 +84,6 @@ $ npm start
 
 ## 📝 License
 
-This project is under the **MIT** license. For more information, access the file [LICENSE](https://github.com/DeboraZandonai/NLW#4-NodeJs/blob/master/LICENSE).
+This project is under the **MIT** license. For more information, access the file [LICENSE](https://github.com/DeboraZandonai/NLW4-NodeJs/blob/master/LICENSE).
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
